@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Autobiography of Princess Janine Oftana</title>
+  <style>
+    body {
+      font-family: "Poppins", Arial, sans-serif;
+      background: linear-gradient(135deg, #f8e1f4, #e0f7fa);
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      color: #c2185b;
+      font-size: 2em;
+    }
+
+    h2 {
+      color: #00796b;
+      margin-top: 25px;
+    }
+
+    p {
+      line-height: 1.7;
+      text-align: justify;
+      margin-bottom: 15px;
+    }
+
+    .info {
+      background: #fce4ec;
+      padding: 15px;
+      border-left: 5px solid #c2185b;
+      border-radius: 10px;
+      margin-bottom: 25px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Autobiography of Princess Janine Oftana</h1>
+
+    <div class="info">
+      <p><strong>Name:</strong> Princess Janine Oftana</p>
+      <p><strong>Age:</strong> 18 years old</p>
+      <p><strong>Date of Birth:</strong> April 18, 2007</p>
+      <p><strong>Birthplace:</strong> Talibon, Bohol</p>
+      <p><strong>Hometown:</strong> Villa Milagrosa, Pres. Carlos P. Garcia, Bohol</p>
+      <p><strong>Current Residence:</strong> Saac, Lapu-Lapu City</p>
+      <p><strong>Course:</strong> Bachelor of Industrial Technology, Major in Computer Technology</p>
+      <p><strong>School:</strong> Lapu-Lapu City College</p>
+    </div>
+
+    <h2>Family Background</h2>
+    <p>
+      Family is very important to me. I'm the youngest of five siblings—three older brothers and one older sister.
+      I'm blessed to have three adorable nephews and three lovely sisters-in-law. My parents are my pillars of strength,
+      always showering me with love and support. I cherish the time I spend with them and enjoy playing with my nephews.
+      One of our favorite activities is walking barefoot to the street to buy candies, creating sweet memories together.
+    </p>
+
+    <h2>Educational Journey</h2>
+    <p>
+      My educational journey started at Villa Milagrosa Elementary School, where I graduated at the age of 11.
+      Those were some of the happiest days of my life, filled with laughter, friendships, and fun-filled moments.
+    </p>
+    <p>
+      In senior high school, I chose Tailoring as my strand because I genuinely enjoyed sewing and creating things.
+      One of the highlights of my senior year was our JS Prom, where I was crowned <strong>Prom Queen</strong>.
+      It was an unforgettable night, dancing with friends and being surrounded by loved ones who were beaming with pride.
+    </p>
+    <p>
+      I graduated high school at the age of 17 from Mayor Inocencio B. Mendez. Now, I'm excited to take on new challenges
+      in college, balancing academics and personal growth. I'm looking forward to seeing what the future holds and making
+      the most of every opportunity that comes my way.
+    </p>
+
+    <footer>
+    </footer>
+  </div>
+</body>
+</html>
